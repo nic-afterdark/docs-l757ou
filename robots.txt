@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lf4igo.jambul126.xyz/sitemap.xml
